@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [The Challenge](#the-challenge)
+  - [The Project](#the-project)
   - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
@@ -15,13 +15,13 @@
 
 ## Overview
 
-### The Challenge
+### The Project
 
 The Travelist App is designed to help users manage their travel packing lists efficiently. Users can add items to their packing list, mark items as packed, delete items, sort the list by different criteria, and clear the entire list with a confirmation prompt. The app also provides real-time statistics on the user's packing progress.
 
 ### Links
 
-- [Live Demo](https://your-live-demo-link.com)
+- [Live Demo](https://jelilking.github.io/travel-list-app)
 - [Repository](https://github.com/jelilking/travel-list-app)
 
 ## My Process
