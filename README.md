@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Travelist App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+- [Overview](#overview)
+  - [The Challenge](#the-challenge)
+  - [Links](#links)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+  - [Useful Resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+### The Challenge
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The Travelist App is designed to help users manage their travel packing lists efficiently. Users can add items to their packing list, mark items as packed, delete items, sort the list by different criteria, and clear the entire list with a confirmation prompt. The app also provides real-time statistics on the user's packing progress.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Links
 
-### `npm test`
+- [Live Demo](https://your-live-demo-link.com)
+- [Repository](https://github.com/jelilking/travel-list-app)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## My Process
 
-### `npm run build`
+### Built With
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- JavaScript (ES6+)
+- CSS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### What I Learned
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+While building the Travelist App, I reinforced my understanding of React hooks such as `useState`. I also gained more experience with handling user interactions, managing state, and updating the UI dynamically. The project helped me improve my skills in conditional rendering, list management, and form handling in React.
 
-### `npm run eject`
+### Continued Development
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+In future development, I plan to:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Add user authentication to allow users to save and retrieve their packing lists.
+- Implement local storage to persist the packing list between sessions.
+- Enhance the UI with more interactive elements and animations.
+- Improve the accessibility and responsiveness of the app.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Useful Resources
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [React Documentation](https://reactjs.org/docs/getting-started.html) - Official React documentation for understanding core concepts and advanced features.
+- [MDN Web Docs](https://developer.mozilla.org/) - Comprehensive resource for web development concepts and JavaScript references.
+- [CSS-Tricks](https://css-tricks.com/) - Useful tips and tricks for styling components effectively.
 
-## Learn More
+## Author
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- GitHub - [Jelilking](https://github.com/jelilking)
+- Twitter - [@maliking25](https://twitter.com/your-twitter-handle)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Acknowledgments
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I would like to thank Jonas (online tutor) for his great work let us have access to his courses on udemy.
